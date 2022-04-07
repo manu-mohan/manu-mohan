@@ -3,10 +3,12 @@ Address:  208.67.222.222
 
 Name:    myip.opendns.com
 
+----------------------
 Server:  192-168-1-1.tpgi.com.au
 Address:  192.168.1.1
 
 Name:    whoami.akamai.net
 Address:  203.219.17.136
 
+----------------------
 165.225.115.97
