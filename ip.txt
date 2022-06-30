@@ -12,7 +12,8 @@ Server:  h22rrgdns02.optus.com.au
 Address:  161.43.1.201
 
 Name:    whoami.akamai.net
-Address:  119.225.142.246
+Addresses:  2405:9000:acdc:2000::246
+	  119.225.142.246
 
 ----------------------
 
