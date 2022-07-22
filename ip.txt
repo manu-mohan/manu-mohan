@@ -1,17 +1,21 @@
-Server:  resolver1.opendns.com
+DNS request timed out.
+    timeout was 2 seconds.
+Server:  UnKnown
 Address:  208.67.222.222
 
-Name:    myip.opendns.com
-
+DNS request timed out.
+    timeout was 2 seconds.
+DNS request timed out.
+    timeout was 2 seconds.
 ----------------------
-Server:  192-168-1-1.tpgi.com.au
-Address:  192.168.1.1
+Server:  h22rrgdns02.optus.com.au
+Address:  161.43.1.201
 
 Name:    whoami.akamai.net
-Address:  203.219.17.136
+Address:  119.225.142.246
 
 ----------------------
-165.225.115.97
+
 ----------------------
-210.185.107.160
+
 ----------------------
