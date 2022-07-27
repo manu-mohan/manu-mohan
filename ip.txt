@@ -8,8 +8,8 @@ DNS request timed out.
 DNS request timed out.
     timeout was 2 seconds.
 ----------------------
-Server:  h22rrgdns02.optus.com.au
-Address:  161.43.1.201
+Server:  ho2kygdns02.optus.com.au
+Address:  161.43.32.162
 
 Name:    whoami.akamai.net
 Address:  119.225.142.246
